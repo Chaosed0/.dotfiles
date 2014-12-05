@@ -5,3 +5,4 @@ ln -s $PWD/bashrc $HOME/.bashrc
 ln -s $PWD/xmonad $HOME/.xmonad
 ln -s $PWD/Xresources $HOME/.Xresources
 ln -s $PWD/xmobarrc $HOME/.xmobarrc
+ln -s $PWD/vimrc $HOME/.vimrc
